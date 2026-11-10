@@ -1,0 +1,12 @@
+# ESP-IDF
+build/
+sdkconfig.old
+sdkconfig.ci
+managed_components/
+
+# Compiler cache & indexing
+.clangd/
+
+# OS files
+.DS_Store
+Thumbs.db
